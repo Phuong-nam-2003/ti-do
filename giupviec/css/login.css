@@ -1,0 +1,50 @@
+.logo {
+  padding-left: 10%;
+  padding-top: 18px;
+}
+.form-floating.mb-3 {
+  width: 20%;
+}
+button.btn.btn-primary {
+  width: 20%;
+  height: 63px;
+  border-radius: 48px;
+}
+button.c83859ab9.c6080078a.ce510e60e {
+  width: 20%;
+  height: 63px;
+  border-radius: 48px;
+  background: white;
+}
+main {
+  text-align: -webkit-center;
+  padding-top: 3%;
+  margin-bottom: 10%;
+}
+.aray {
+  padding-bottom: 40px;
+}
+.aff {
+  padding-right: 11%;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  color: #0a65fc;
+}
+p.a-oop {
+  padding-right: 4%;
+  padding-top: 14px;
+}
+.twitter {
+  padding-bottom: 9px;
+}
+footer.footer {
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #FFFFFF;
+  z-index: 10;
+  border-radius: 8px;
+}
