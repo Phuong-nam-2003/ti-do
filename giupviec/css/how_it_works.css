@@ -1,0 +1,64 @@
+p.Text__StyledTypographyComponent-sc-35e02v-0.gOGerw.HomePageHero__Heading-sc-6e514h-7.deoFju {
+  font-size: 43px;
+  line-height: 54px;
+  letter-spacing: 5.23px;
+  color: white;
+  font-weight: 750;
+}
+p.ppp {
+  font-family: manrope-regular, "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 24px;
+  font-weight: initial;
+  line-height: 32px;
+  letter-spacing: -0.15px;
+  color: white;
+  margin-bottom: 15%;
+}
+.HomePageHero__Wrapper-sc-6e514h-0.bgHtYF {
+  background: rgb(6, 18, 87);
+}
+p.p_fsfg {
+  font-family: manrope-regular, "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 26px;
+  font-weight: initial;
+  line-height: 32px;
+  letter-spacing: -0.15px;
+  padding-right: 43px;
+}
+h3.h3_oan {
+  font-family: pp-formula-airtasker, "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: -0.25px;
+  text-transform: none;
+}
+.PostTaskStepsSection__RightSection-sc-doc741-12.ejWAps {
+  padding-top: 8%;
+}
+a.Link__Anchor-sc-1xsb1mu-0.ivVqDI.Link__UnstyledInlineLink-sc-1xsb1mu-2.LinkButton__StyledLinkButton-sc-5ftxev-0.kVURKP.HomePageHero__StyledButton-sc-6e514h-8.MtDzg {
+  display: inline-block;
+  text-align: center;
+  white-space: nowrap;
+  cursor: pointer;
+  box-sizing: border-box;
+  margin: 0;
+  border: none;
+  border-radius: 160px;
+  color: rgb(10, 101, 252);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  font-family: manrope-bold,'Helvetica Neue',Helvetica,Arial,'Lucida Grande',sans-serif;
+  font-size: 16px;
+  font-weight: initial;
+  line-height: 24px;
+  -webkit-letter-spacing: 0.15px;
+  -moz-letter-spacing: 0.15px;
+  -ms-letter-spacing: 0.15px;
+  letter-spacing: 0.15px;
+  background-color: rgb(243, 247, 255);
+  -webkit-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
