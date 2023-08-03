@@ -34,7 +34,7 @@ h3.h3_oan {
   text-transform: none;
 }
 .PostTaskStepsSection__RightSection-sc-doc741-12.ejWAps {
-  padding-top: 8%;
+  padding-top: 15%;
 }
 a.Link__Anchor-sc-1xsb1mu-0.ivVqDI.Link__UnstyledInlineLink-sc-1xsb1mu-2.LinkButton__StyledLinkButton-sc-5ftxev-0.kVURKP.HomePageHero__StyledButton-sc-6e514h-8.MtDzg {
   display: inline-block;
@@ -61,4 +61,27 @@ a.Link__Anchor-sc-1xsb1mu-0.ivVqDI.Link__UnstyledInlineLink-sc-1xsb1mu-2.LinkBut
   background-color: rgb(243, 247, 255);
   -webkit-transition: all 0.1s ease-in-out;
   transition: all 0.1s ease-in-out;
+}
+.\33 md {
+  display: flex;
+}
+p.pjon {
+  padding-inline: 19%;
+  font-family: manrope-regular, "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 26px;
+  font-weight: initial;
+  line-height: 38px;
+  letter-spacing: -0.15px;
+}
+h3.ttc {
+  font-family: pp-formula-airtasker, "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: -0.25px;
+  text-transform: none;
+  padding-left: 19%;
+}
+.\31 lkl {
+  padding-top: 12%;
 }
