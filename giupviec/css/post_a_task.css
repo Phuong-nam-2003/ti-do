@@ -1,0 +1,33 @@
+.Logoo {
+  padding-left: 10%;
+  padding-top: 15px;
+  padding-bottom: 11px;
+}
+
+.tesdsd {
+  display: flex;
+  padding-left: 17%;
+  margin-top: 4%;
+}
+.row1 {
+  padding-inline: inherit;
+}
+input[type="text"] {
+  border-radius: 10px;
+}
+.column {
+  display: flex;
+  margin-left: -2%;
+  padding-bottom: 56px;
+}
+.c11 {
+  padding: 10px;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+
+  border-radius: 13px;
+}
+button.btn.btn-primary {
+  width: 27%;
+}
