@@ -6,7 +6,7 @@
 
 .tesdsd {
   display: flex;
-  padding-left: 17%;
+  padding-left: 10%;
   margin-top: 4%;
 }
 .row1 {
@@ -27,7 +27,12 @@ input[type="text"] {
 [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
 
   border-radius: 13px;
+
 }
 button.btn.btn-primary {
   width: 27%;
+}
+input[type="text"] {
+  padding: 3%;
+  width: 77%;
 }
