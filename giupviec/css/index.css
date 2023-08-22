@@ -7506,7 +7506,8 @@ i.fa-brands.fa-google-play {
     font-size: 27px;
 }
 img.imgss {
-    width: 110%;
+    width: 100%;
+    border-radius: 9px;
 }
 img.ssad {
     width: 100%;
@@ -7517,4 +7518,16 @@ img.ssad {
     width: 1351px;
     margin: auto;
     margin-top: 60px;
+}
+.floating-tasks-container-wrapper{
+    display: flex;
+}
+.home-task-container.home-task-container-row-1 {
+    margin:0 auto;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.NV_ahf img {
+    border-radius: 6px;
 }
