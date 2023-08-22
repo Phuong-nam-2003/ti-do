@@ -7506,7 +7506,8 @@ i.fa-brands.fa-google-play {
     font-size: 27px;
 }
 img.imgss {
-    width: 110%;
+    width: 100%;
+    border-radius: 9px;
 }
 img.ssad {
     width: 100%;
@@ -7529,4 +7530,4 @@ img.ssad {
 }
 .NV_ahf img {
     border-radius: 6px;
-}
+
