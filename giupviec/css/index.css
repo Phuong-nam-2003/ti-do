@@ -7514,7 +7514,19 @@ img.ssad {
 }
 
 .diidf {
-    width: 1351px;
+    width: 1439px;
     margin: auto;
     margin-top: 60px;
+}
+.floating-tasks-container-wrapper{
+    display: flex;
+}
+.home-task-container.home-task-container-row-1 {
+    margin:0 auto;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.NV_ahf img {
+    border-radius: 6px;
 }
