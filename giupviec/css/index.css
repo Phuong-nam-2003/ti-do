@@ -7493,6 +7493,12 @@ table.light-table td {
     padding-inline: 40%;
     padding-top: 13px;
 }
+.danhgia p {
+    color: #061257;
+    font-size: 15px;
+    font-weight: bold;
+}
+
 .info {
     padding: 0 25px;
     font-family: ui-monospace;
@@ -7503,4 +7509,19 @@ i.fa-brands.fa-app-store-ios {
 }
 i.fa-brands.fa-google-play {
     font-size: 27px;
+}
+.NV_ahf img {
+    border-radius: 6px;
+    
+}
+
+.floating-tasks-container-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.LottieWrapper__AnimationContainer-sc-1cw13yb-0.gFNUBi img {
+    border-radius: 6px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
 }
